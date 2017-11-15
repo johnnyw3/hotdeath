@@ -1,6 +1,9 @@
-HotDeathR
+# HotDeathR
 
-Hi, Welcome to the repo for HotDeathR. I'm peronsally not too experenced at this, but HotDeathR is a resdign of the android
+Hi, Welcome to the repo for HotDeathR. Since the origonall repo is abondened, I'm starting to do work on this.  I'm peronsally not too experenced at this, but HotDeathR is a redesign of the android game. I hope to make this game "persentable" in the future. No promices, though. 
+
+
+# Hot Death Readme:
 
 Hot Death is a variation of the classic card game, Uno.
 
